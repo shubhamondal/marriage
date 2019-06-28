@@ -110,7 +110,7 @@ z-index:999999;
 	z-index:99999;
 }
 .navbar-default .navbar-brand {
-font-family: 'Great Vibes', cursive;
+font-family: 'Great Vibes', cursive!important;
 color : #fff;
 font-size:55px;
 }
