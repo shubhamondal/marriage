@@ -1,7 +1,7 @@
 jQuery(window).load(function() {
 	"use strict";
 	//PRELOADER
-	jQuery('#preloader').delay().fadeOut('slow'); // will fade out the white DIV that covers the website.
+	jQuery('#preloader').delay(100).fadeOut('slow'); // will fade out the white DIV that covers the website.
 });
 
 
